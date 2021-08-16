@@ -7,6 +7,6 @@ This layer depends on:
 ```
 URI: git://github.com/openembedded/oe-core.git
 layers: meta
-branch: master
+branch: dunfell
 revision: HEAD
 ```
